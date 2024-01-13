@@ -22,6 +22,8 @@ function playRound(playerSelection, computerSelection) {
     }
 }
 
+//this version is inefficient version of the one I have used at the bottom but I left it here for learning purpose
+// of using forEach loops for the button
 
 // const rock = document.querySelector('.rock');
 // const scissor = document.querySelector('.scissor');
